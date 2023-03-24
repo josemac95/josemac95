@@ -13,8 +13,8 @@ I'm Chema, a computer engineer from Spain (:es:).
 
 ## :books: Things I've worked with
 
-![unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![unity](https://img.shields.io/badge/unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+![csharp](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![opencv](https://img.shields.io/badge/opencv-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
