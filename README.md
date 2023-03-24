@@ -1,8 +1,8 @@
 # Hey, listen! :wave:
 
-I'm Chema, a computer engineer from Spain :es:.
+I'm Chema, a computer engineer from Spain (:es:).
 
-- :technologist: Currently working at **[@CrisalixSA](https://github.com/CrisalixSA)**.
+- :man_technologist: Currently working at **[@CrisalixSA](https://github.com/CrisalixSA)**.
 - :mag_right: Specialized in 3D and computer vision.
 
 ## :sparkles: Things I'm currently working with
