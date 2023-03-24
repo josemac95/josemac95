@@ -25,4 +25,3 @@ I'm Chema, a computer engineer from Spain :es:.
 ## :envelope: Contact
 
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/jose-manuel-campillo)
-[![email](https://img.shields.io/badge/email-DDDDDD?style=for-the-badge&logo=gmail&logoColor=red)](mailto:48251360+josemac95@users.noreply.github.com)
