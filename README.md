@@ -1,6 +1,6 @@
 # Hey, listen! :wave:
 
-I'm Chema, a computer engineer from Spain (:es:).
+I'm Chema, a computer engineer from Spain.
 
 - :man_technologist: Currently working at **[@CrisalixSA](https://github.com/CrisalixSA)**.
 - :mag_right: Specialized in 3D and computer vision.
